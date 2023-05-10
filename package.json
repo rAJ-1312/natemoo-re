@@ -1,5 +1,6 @@
 {
   "name": "natemoo-re",
+  "type: : "module",
   "private": true,
   "version": "1.0.0",
   "description": "Github profile",
